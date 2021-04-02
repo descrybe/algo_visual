@@ -1,0 +1,5 @@
+@import '../../../variables/variables.scss';
+
+.algo-side-menu {
+    @include side-menu;
+}
